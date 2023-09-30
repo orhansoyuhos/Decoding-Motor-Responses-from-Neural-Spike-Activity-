@@ -1,4 +1,4 @@
-# Neural-Signals-and-Machine-Learning-Tools-for-Neural-Data
+# Decoding Motor Responses from Neural Spike Activity 
 This repository includes the code I wrote for the weekly assignments in this Biomedical Engineering course. 
 
 - Week 1: Creating raster plots, peri-stimulus time histograms (PSTH), and receptive field analysis.
