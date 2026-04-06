@@ -14,7 +14,7 @@ The primary objective of this project was to decode and understand the motor res
 
 ## Data
 
-Each week's notebook loads a corresponding JSON data file (e.g. `hw1.json`, `hw3.json`, `hw4.json`) containing `events` and `neurons` keys with spike time arrays. These files are not included in the repository due to their size and must be obtained separately.
+Each week's notebook loads a corresponding JSON data file (e.g. `hw1.json`, `hw3.json`, `hw4.json`) containing `events` and `neurons` keys with spike time arrays. These files are not included in the repository due to their size.
 
 ## Weekly Breakdown
 
